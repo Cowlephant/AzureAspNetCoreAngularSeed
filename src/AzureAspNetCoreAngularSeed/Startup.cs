@@ -12,6 +12,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AzureAspNetCoreAngularSeed
+{
     public class Startup
     {
         public IConfiguration Configuration { get; }
