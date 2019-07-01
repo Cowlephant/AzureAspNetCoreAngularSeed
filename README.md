@@ -9,6 +9,8 @@ and `Client Secret`, but when it's actually hosted on Angular it only requires k
 
 This assumes the usage of Visual Studio, so some of the files are appropriate only for that IDE.
 
+I will attempt to update this repository as updates come along for ASP.NET Core, Angular and Angular Material.
+
 ## Getting Started
 
 ### 1. Customize Project Name
